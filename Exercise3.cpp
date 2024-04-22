@@ -4,7 +4,7 @@ int main() {
 	std::string name;
 
 	while (1) {
-		std::cout << "이름을 입력하세요.\n";
+		std::cout << "\n이름을 입력하세요.\n";
 		std::cin >> name;
 
 		if (name == "-1") 
