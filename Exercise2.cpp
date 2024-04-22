@@ -25,4 +25,6 @@ int main()
 	else if (age >= 200) {
 		std::cout << "나이가 너무 많습니다..!";
 	}
+
+	return 0;
 }
