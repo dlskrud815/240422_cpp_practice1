@@ -12,7 +12,8 @@ int main()
 		{
 			return 0;
 		}
-		else {
+		else 
+		{
 			if (age >= 1 && age <= 7)
 			{
 				std::cout << "À¯¾Æ\n";
