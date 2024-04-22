@@ -10,6 +10,7 @@ int main() {
 	std::cout << "³ªÀÌ¸¦ ÀÔ·ÂÇÏ¼¼¿ä.\n";
 	std::cin >> age;
 
-	std::cout << "¾È³çÇÏ¼¼¿ä!" << name << "´Ô (" << age << "¼¼)";
+	std::cout << "¾È³çÇÏ¼¼¿ä! " << name << "´Ô (" << age << "¼¼)";
+
 	return 0;
 }
