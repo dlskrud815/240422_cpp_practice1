@@ -34,7 +34,7 @@ int main()
 			{
 				std::cout << "성인\n";
 			}
-			else if (age >= 200)
+			else
 			{
 				std::cout << "나이가 너무 많습니다..!\n";
 			}
